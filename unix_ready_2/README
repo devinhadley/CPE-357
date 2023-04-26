@@ -1,0 +1,6 @@
+Devin Hadley (dchadley)
+
+The program is compiled using make or make fw.
+Executable will be put into project root and can be executed using ./fw
+The test target on the makefile will not work on the unix servers.
+
