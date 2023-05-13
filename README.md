@@ -6,9 +6,9 @@ This repository contains my projects for the Systems Programming (CPE 357) class
 
 ### Project 2: [fw]
 Program which returns the top n words from a file.
-- [Link to Project 1 Code](2/)
+- [Link to Project 2 Code](2/)
 
 ### Project 3: [huffman encoding]
 Program which encodes and decodes files using the huffman encoding schema.
-- [Link to Project 2 Code](3/)
+- [Link to Project 3 Code](3/)
 
