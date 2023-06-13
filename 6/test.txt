@@ -1,0 +1,9 @@
+echo "Single command sucess!"
+echo "Pipe command success!" | grep "P"
+echo "If you see this pipe failed!" | grep "X"
+echo "If you see this i/o redirection works" > test_io_redirect.txt
+cat < test_io_redirect.txt
+echo "Next should fail: "
+cd nonexistant
+echo "Next should also fail: "
+ls | sort < foo
